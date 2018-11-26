@@ -1,5 +1,7 @@
 # Patroni Spike
 
+**Moved to https://github.com/gocardless/patroni-spike**
+
 ## What is this
 
 A quick spike on running Patroni+Postgres in kubernetes, but only as a quick-and-dirty
